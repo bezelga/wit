@@ -12,13 +12,15 @@ For now there is only integration with Google Cloud Registry (GCR)
 
 ## Usage
 
-Work in progress
+## Initial configuration:
 
-## Create a stack
+    $ wit init
+
+## [WIP] Create a stack
 
     $ wit create stack [namespace]
 
-## Deploying
+## [WIP] Deploying
 
     $ wit deploy [image] [target]
 
