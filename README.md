@@ -1,6 +1,6 @@
 # wit
 
-WARNING: this CLI is a work in progress, a release will be create when the first version is ready to go.
+__Warning: this CLI is a work in progress, a release will be created when the first version is ready to go.__
 
 wit is an easier to deploy your app to kubernetes, so all your team does not need to learn kubernetes itself.
 
