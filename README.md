@@ -6,7 +6,7 @@ For now there is only integration with Google Cloud Registry (GCR)
 
 ## Installation
 
-  $ gem install wit
+    $ gem install wit
 
 ## Usage
 
@@ -14,11 +14,11 @@ Work in progress
 
 ## Create a stack
 
-  $ wit create stack [namespace]
+    $ wit create stack [namespace]
 
 ## Deploying
 
-  $ wit deploy [image] [target]
+    $ wit deploy [image] [target]
 
 ## Development
 
