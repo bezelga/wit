@@ -1,5 +1,7 @@
 # wit
 
+WARNING: this CLI is a work in progress, a release will be create when the first version is ready to go.
+
 wit is an easier to deploy your app to kubernetes, so all your team does not need to learn kubernetes itself.
 
 For now there is only integration with Google Cloud Registry (GCR)
